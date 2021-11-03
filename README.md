@@ -47,27 +47,13 @@ npx react-native run-android
 
 ## Screenshots
 
-### Phone 1 - Broadcaster
-
-<img src=".docs/InitialScreen.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/ScanningBroadcasting.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/BroadcastAuth.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/ChatBroadcast.png" width = 35% height = 50% style="margin:1em">
-
-### Phone 2 - Scanner
-
-<img src=".docs/InitialScreen.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/ScanningBroadcasting.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/ScanResult.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/ScanAuth.png" width = 35% height = 50% style="margin:1em">
-
-<img src=".docs/ChatScan.png" width = 35% height = 50% style="margin:1em">
+Phone 1 Broadcaster           |  Phone 2 Scanner
+:-------------------------:|:-------------------------:
+<img src=".docs/InitialScreen.png" width="200" height="400" /> | <img src=".docs/InitialScreen.png" width="200" height="400" />
+<img src=".docs/ScanningBroadcasting.png" width="200" height="400" />| <img src=".docs/ScanningBroadcasting.png" width="200" height="400" />
+<img src=".docs/BroadcastAuth.png" width="200" height="400" /> | <img src=".docs/ScanResult.png" width="200" height="400" />
+|| <img src=".docs/ScanAuth.png" width="200" height="400" />
+<img src=".docs/ChatBroadcast.png" width="200" height="400" /> | <img src=".docs/ChatScan.png" width="200" height="400">
 
 ## Sources
 
@@ -78,11 +64,3 @@ npx react-native run-android
 **Official Documentation Guide** : [Guide](https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-Guides/about-the-service-0000001053940431)
 
 **Official Documentation Reference** : [Reference](https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-References/hms-application-0000001073654825)
-
-### Medium
-
-**Plugin Installation** : 
-
-**Chat Application** : 
-
-**Wifi Sharing Application** : 
